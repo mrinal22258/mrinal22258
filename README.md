@@ -15,7 +15,7 @@ I'm Kumar Mrinal, a 4th year computer science and artificial intelligence underg
 ---
 [![](https://visitcount.itsvg.in/api?id=mrinal22258&icon=1&color=12)](https://visitcount.itsvg.in)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrinal22258&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Metrics](https://github.com/mrinal22258/mrinal22258/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/mrinal22258?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal22258&layout=compact&theme=gruvbox)
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 

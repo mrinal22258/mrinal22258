@@ -20,7 +20,7 @@ I'm Kumar Mrinal, a 4th year computer science and artificial intelligence underg
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — **Cory House**
 
 ---

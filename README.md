@@ -1,11 +1,6 @@
 # 💫 About Me:
 I'm Kumar Mrinal, a 4th year computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast.
 
-📌 *“Code is like humor. When you have to explain it, it’s bad.”*  
-— **Cory House**
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mrinalnotmrinal/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-mrinal-840a55297/) 
@@ -22,6 +17,13 @@ I'm Kumar Mrinal, a 4th year computer science and artificial intelligence underg
 [![](https://visitcount.itsvg.in/api?id=mrinal22258&icon=1&color=12)](https://visitcount.itsvg.in)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrinal22258&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal22258&layout=compact&theme=gruvbox&langs_count=10)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — **Cory House**
+
+---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

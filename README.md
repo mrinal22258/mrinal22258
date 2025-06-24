@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kumar Mrinal, a 4th year computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast .
+I'm Kumar Mrinal, a 4th year computer science and artificial intelligence undergraduate at IIIT-Delhi and an AI/ML enthusiast ..
 
 
 ## 🌐 Socials:
